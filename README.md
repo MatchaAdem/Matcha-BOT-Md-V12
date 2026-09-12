@@ -47,15 +47,14 @@ Karena file utama berbentuk ZIP, lu kudu ekstrak dulu coyy file nya pake perinta
 unzip "Matcha BOT Md v12 (No Enc No Limit API).zip"
 ```
 
-### 4. Instalasi Dependensi & Menjalankan Bot
+### 4. Install Modul & Run Bot
 Masuk ke folder hasil ekstrak (sesuaikan nama foldernya yang lu buat kalo lu ngemasukin sendiri script yang udah di clone), terus lu install semua modul dulu buat jalanin bot nya disini:
 ```bash
 npm install
-node index.js
 ```
 
 ### 5. Pastiin klon-an github nya udah masuk ke dalam termux lu:
-Pake command ini dan cari sendiri skrip nya di termux lu:
+Pake command ini dan cari sendiri skrip nya di termux:
 ```bash
 $ ls
 ```
@@ -64,7 +63,7 @@ $ ls
 ```bash
 index.js
 ```
-kalo udah ganti? langsung eksekusi pake perintah ini:
+kalo udah ganti? simpan dulu progress nya pencet *CTRL X* buat langsung save dan keluar dari editor termux, habis itu langsung lu eksekusi pake perintah ini:
 ```bash
 node index.js
 ```
