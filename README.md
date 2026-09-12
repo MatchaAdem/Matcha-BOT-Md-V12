@@ -17,4 +17,4 @@ Selamat datang di repositori resmi **Matcha BOT Md V12**. Ini adalah proyek bot 
 * **Open Source Framework:** Struktur kode yang ramah bagi pemula yang ingin belajar memodifikasi skrip bot.
 
 ---
-*Dikembangkan langsung oleh developer **MatchaAdem**.*
+*Dibuat serta dikembangkan langsung oleh developer **MatchaAdem**.*
