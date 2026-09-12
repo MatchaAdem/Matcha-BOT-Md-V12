@@ -5,7 +5,7 @@ Selamat datang di repositori resmi **Matcha BOT Md V12**. Ini adalah proyek bot 
 
 ## ✨ Keunggulan Utama
 
-* 🔓 **No Encryption (No Enc):** Kode 100% terbuka, bebas dibaca, dipelajari, dan dimodifikasi sesuai kreativitas Anda dari versi awal hingga versi V12 ini.
+* 🔓 **No Encryption (No Enc):** Kode 100% terbuka, bebas diubah, dipelajari, dan dikembangin lagi sesuai kreativitas lu dari vers V12 ini, namun tolong hargai penciptanya dengan tidak mengubah kode kepemlikan di script
 * 🚀 **No Limit API:** Berjalan tanpa batasan limit API, memastikan respon bot tetap cepat dan stabil saat digunakan
   
 * 📱 **Multi-Device (Md):** ada downloader tiktok, AI Ramah + AI Toxic, serta pengoperasian yang fleksibel karena di setel pake settingan javascript
