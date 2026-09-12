@@ -60,6 +60,13 @@ Pake command ini dan cari sendiri skrip nya di termux lu:
 $ ls
 ```
 
-> ⚠️ **Catatan penting buat lu:** Jangan lupa lu ganti/masukin token bot tele dan semua hal yang wajib lu masukin ke dalam di dalem file  (`index.js`). kalo udah ganti? langsung ae coyy eksekusi pake perintah ini🔥 `node index.js`
->
-> ❗ **DILARANG KERAS MENJUAL-BELIKAN/KLAIM SCRIPT/MENGUBAH LISENSI KEPEMILIKAN YANG ADA DI SOURCE, TOLONG HARGAI PENCIPTA SCRIPT INI**
+⚠️ **Catatan penting buat lu:** Jangan lupa lu ganti/masukin token bot tele dan semua hal yang wajib lu masukin ke dalam di dalem file
+```bash
+index.js
+```
+kalo udah ganti? langsung eksekusi pake perintah ini:
+```bash
+node index.js
+```
+
+❗ **DILARANG KERAS MENJUAL-BELIKAN/KLAIM SCRIPT/MENGUBAH LISENSI KEPEMILIKAN YANG ADA DI SOURCE, TOLONG HARGAI PENCIPTA SCRIPT INI**
